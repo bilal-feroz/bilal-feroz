@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Bilal Feroz — AI, Robotics, Industrial Automation</title>
+  <desc id="desc">A dark navy technology banner with circuit nodes, an industrial robot arm, an ASRS rack, and a Digital Twin grid.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#0b1726"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a3e635" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#38bdf8" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="360" rx="22" fill="url(#background)"/>
+  <rect x="1" y="1" width="1278" height="358" rx="21" fill="none" stroke="#22d3ee" stroke-opacity="0.24"/>
+  <rect width="1280" height="360" rx="22" fill="url(#grid)"/>
+  <circle cx="648" cy="150" r="300" fill="url(#glow)"/>
+
+  <!-- Robot-arm line art -->
+  <g fill="none" stroke="#22d3ee" stroke-opacity="0.42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M62 294h220M97 294v-28h74v28"/>
+    <circle cx="134" cy="244" r="22"/>
+    <path d="M146 226l42-63 32 18-41 64"/>
+    <circle cx="205" cy="171" r="17"/>
+    <path d="M219 161l60-38 17 27-63 39"/>
+    <circle cx="292" cy="138" r="14"/>
+    <path d="M304 131l27-20m-25 28l34 6m-38 2l20 28"/>
+  </g>
+  <g fill="#07111f" stroke="#a3e635" stroke-width="2">
+    <circle cx="134" cy="244" r="7"/><circle cx="205" cy="171" r="5"/><circle cx="292" cy="138" r="4"/>
+  </g>
+
+  <!-- ASRS rack line art -->
+  <g fill="none" stroke="#94a3b8" stroke-opacity="0.38" stroke-width="2">
+    <path d="M1034 76h178v218h-178zM1078 76v218m45-218v218m44-218v218M1034 130h178m-178 55h178m-178 54h178"/>
+    <path d="M1007 76v218m-15-218h30m-30 218h30" stroke="#22d3ee"/>
+    <path d="M1007 117h27m-27 122h27" stroke="#a3e635"/>
+  </g>
+  <g fill="#22d3ee" fill-opacity="0.18" stroke="#22d3ee" stroke-opacity="0.45">
+    <rect x="1045" y="88" width="22" height="29" rx="2"/><rect x="1134" y="143" width="22" height="29" rx="2"/>
+    <rect x="1178" y="198" width="22" height="28" rx="2"/><rect x="1090" y="251" width="22" height="29" rx="2"/>
+  </g>
+
+  <!-- Circuit/data path -->
+  <g fill="none" stroke="#22d3ee" stroke-opacity="0.34" stroke-width="1.5">
+    <path d="M24 74h115l25 25h130M1256 320h-126l-25-25h-116"/>
+    <path d="M378 40v32h36l20 20h42M846 318v-32h-42l-18-18h-42"/>
+  </g>
+  <g fill="#a3e635" filter="url(#softGlow)">
+    <circle cx="164" cy="99" r="3"/><circle cx="434" cy="92" r="3"/><circle cx="1105" cy="295" r="3"/><circle cx="786" cy="268" r="3"/>
+  </g>
+
+  <!-- Hero copy -->
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <text x="640" y="126" fill="#f8fafc" font-size="64" font-weight="750" letter-spacing="1">Bilal Feroz</text>
+    <rect x="422" y="151" width="436" height="34" rx="17" fill="#0f2433" stroke="#22d3ee" stroke-opacity="0.42"/>
+    <text x="640" y="174" fill="#67e8f9" font-size="17" font-weight="650" letter-spacing="2.2">AI • ROBOTICS • INDUSTRIAL AUTOMATION</text>
+    <text x="640" y="226" fill="#cbd5e1" font-size="22" font-weight="400">Building software that connects intelligence, machines</text>
+    <text x="640" y="257" fill="#cbd5e1" font-size="22" font-weight="400">and real-world operations.</text>
+  </g>
+  <rect x="370" y="302" width="540" height="2" rx="1" fill="url(#accentLine)"/>
+</svg>

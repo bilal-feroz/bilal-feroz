@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="img" aria-labelledby="title desc">
+  <title id="title">Circuit section divider</title>
+  <desc id="desc">A thin cyan and lime circuit line separating profile sections.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.22" stop-color="#22d3ee" stop-opacity="0.55"/>
+      <stop offset="0.75" stop-color="#22d3ee" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#a3e635" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 14h520l12-9h42l12 9h614" fill="none" stroke="url(#line)" stroke-width="1.5"/>
+  <circle cx="553" cy="5" r="3" fill="#a3e635"/>
+  <circle cx="586" cy="14" r="2.5" fill="#22d3ee"/>
+</svg>

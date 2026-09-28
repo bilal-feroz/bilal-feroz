@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.jpeg" alt="Bilal Feroz — AI, robotics, industrial automation, and software engineering" width="100%" />
+  <img src="assets/moon-banner.svg" alt="Bilal Feroz — AI, robotics, industrial automation, and software engineering" width="100%" />
 </div>
 
 <div align="center">

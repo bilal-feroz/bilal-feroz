@@ -4,19 +4,18 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bilal-ferozz/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Bilal Feroz on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-dfe6f0?style=for-the-badge&labelColor=0b0e14&logo=linkedin&logoColor=dfe6f0" alt="Connect with Bilal Feroz on LinkedIn" />
   </a>
   <a href="mailto:bilalfk.viii@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's_talk-0891B2?style=flat-square&logo=gmail&logoColor=white" alt="Email Bilal Feroz" />
+    <img src="https://img.shields.io/badge/Email-Let's_talk-dfe6f0?style=for-the-badge&labelColor=0b0e14&logo=gmail&logoColor=dfe6f0" alt="Email Bilal Feroz" />
   </a>
   <a href="https://kanbanstudios.ae">
-    <img src="https://img.shields.io/badge/Kanban_Studios-Product_Studio-65A30D?style=flat-square" alt="Visit Kanban Studios" />
+    <img src="https://img.shields.io/badge/Kanban_Studios-Product_Studio-dfe6f0?style=for-the-badge&labelColor=0b0e14" alt="Visit Kanban Studios" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=bilal-feroz&style=flat-square&color=0891b2&label=Profile+views" alt="Bilal Feroz GitHub profile views" />
-  <img src="https://img.shields.io/badge/Abu_Dhabi-UAE-334155?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Abu Dhabi, UAE" />
+  <img src="https://img.shields.io/badge/Abu_Dhabi-UAE-dfe6f0?style=for-the-badge&labelColor=0b0e14&logo=googlemaps&logoColor=dfe6f0" alt="Based in Abu Dhabi, UAE" />
 </div>
 
-# Building practical systems across AI, robotics & automation
+# <img src="assets/moon/phase-01.png" height="30" align="absmiddle" alt=""> Building practical systems across AI, robotics & automation
 
 I build systems where **AI, software, machines, sensors, and real operational workflows have to work together reliably**.
 
@@ -24,9 +23,9 @@ I am a **Visiting Researcher at EDGE BRIDGE**, **Chief Product Officer at [Kanba
 
 My work spans industrial automation, Digital Twins, HMIs, robotics, computer vision, agentic AI, backend systems, observability, reliability engineering, and rapid product prototyping.
 
-![Circuit-style section divider](assets/divider.svg)
+![Moon-phase section divider](assets/divider.svg)
 
-## What I am working on
+## <img src="assets/moon/phase-02.png" height="24" align="absmiddle" alt=""> What I am working on
 
 - **Agentic AI** systems with evidence, policy logic, and human review.
 - **Industrial automation** connecting software to machines, sensors, and operators.
@@ -35,7 +34,7 @@ My work spans industrial automation, Digital Twins, HMIs, robotics, computer vis
 - **Reliability engineering** using telemetry, load testing, traces, logs, and automated verification.
 - **Full-stack products** that move from prototype to usable operational software.
 
-## What I build
+## <img src="assets/moon/phase-03.png" height="24" align="absmiddle" alt=""> What I build
 
 ### AI & intelligent systems
 Agentic workflows, RAG systems, knowledge graphs, document intelligence, decision-support systems, computer vision, and AI-assisted automation.
@@ -49,9 +48,9 @@ Dashboards, internal tools, APIs, workflow engines, mobile applications, monitor
 ### Reliability & observability
 Load testing, regression detection, telemetry analysis, traces, logs, performance thresholds, automated validation, and deployment safety.
 
-![Circuit-style section divider](assets/divider.svg)
+![Moon-phase section divider](assets/divider.svg)
 
-## Engineering principles
+## <img src="assets/moon/phase-04.png" height="24" align="absmiddle" alt=""> Engineering principles
 
 - Start with the **real workflow and failure modes**, not the feature list.
 - Make system state, AI reasoning, evidence, and recovery paths visible.
@@ -61,7 +60,7 @@ Load testing, regression detection, telemetry analysis, traces, logs, performanc
 - Measure performance instead of assuming something works.
 - Prefer systems that are explainable, testable, observable, and recoverable.
 
-## Technology stack
+## <img src="assets/moon/phase-05.png" height="24" align="absmiddle" alt=""> Technology stack
 
 ### AI, backend & data
 
@@ -85,11 +84,11 @@ Load testing, regression detection, telemetry analysis, traces, logs, performanc
 
 `OpenTelemetry` `SigNoz` `k6` `autocannon` `Load Testing` `Performance Regression Analysis`
 
-![Circuit-style section divider](assets/divider.svg)
+![Moon-phase section divider](assets/divider.svg)
 
-# Featured builds
+# <img src="assets/moon/phase-06.png" height="30" align="absmiddle" alt=""> Featured builds
 
-## 🏥 [CaseReady AI](https://github.com/bilal-feroz/caseready-ai)
+## [CaseReady AI](https://github.com/bilal-feroz/caseready-ai)
 
 **2nd Place Nationally — AIMed AI Builders Summit 2026**
 
@@ -99,7 +98,7 @@ A surgical operations platform that helps hospitals identify cases at risk, dete
 
 ---
 
-## 🔎 [TraceForge](https://github.com/bilal-feroz/TraceForge)
+## [TraceForge](https://github.com/bilal-feroz/TraceForge)
 
 An AI reliability agent that determines whether a code change is actually safe before it reaches production.
 
@@ -113,7 +112,7 @@ It also detected a silent regression where errors stayed at **0%**, while P95 la
 
 ---
 
-## ⚙️ ScaleProof
+## ScaleProof
 
 An automated infrastructure-testing system built during a Zerops challenge.
 
@@ -127,7 +126,7 @@ Another detected that adding a container made performance approximately **2.5× 
 
 ---
 
-## 🧠 Aletheia
+## Aletheia
 
 An AI research assistant built around an unusual problem:
 
@@ -141,7 +140,7 @@ Instead of only learning more information, it can also **unlearn invalidated kno
 
 ---
 
-## ✋ [Air Canvas](https://github.com/bilal-feroz/Air-Canvas)
+## [Air Canvas](https://github.com/bilal-feroz/Air-Canvas)
 
 A webcam-controlled spatial canvas with gesture input, editable vector strokes, and depth-aware interaction for hands-free drawing.
 
@@ -149,7 +148,7 @@ A webcam-controlled spatial canvas with gesture input, editable vector strokes, 
 
 ---
 
-## 🏭 [Digital Twin Manual](https://github.com/bilal-feroz/digital-twin-manual)
+## [Digital Twin Manual](https://github.com/bilal-feroz/digital-twin-manual)
 
 A touch-focused industrial HMI for controlling a simulated robotic arm and conveyor system with clear position, movement, direction, and state feedback.
 
@@ -157,7 +156,7 @@ A touch-focused industrial HMI for controlling a simulated robotic arm and conve
 
 ---
 
-## 📱 [Excelerate Learning Platform](https://github.com/bilal-feroz/Excelerate-Internship)
+## [Excelerate Learning Platform](https://github.com/bilal-feroz/Excelerate-Internship)
 
 A Flutter-based learning platform developed during my Excelerate internship.
 
@@ -167,7 +166,7 @@ I led project management and technical integration across the team, managed GitH
 
 ---
 
-## ♻️ ReLoop Vision
+## ReLoop Vision
 
 A browser-based industrial waste-sorting simulation developed during a **Robotics, AI & Industry 4.0 Innovation Lab Workshop**.
 
@@ -175,9 +174,9 @@ The system combines multiple sensor inputs, confidence scoring, edge decision lo
 
 `Industrial AI` `Sensors` `Edge Logic` `Automation` `Safety Systems`
 
-![Circuit-style section divider](assets/divider.svg)
+![Moon-phase section divider](assets/divider.svg)
 
-# Experience
+# <img src="assets/moon/phase-07.png" height="30" align="absmiddle" alt=""> Experience
 
 ### EDGE BRIDGE — Visiting Researcher
 **Jan 2026 – Present**
@@ -206,18 +205,18 @@ Contributed to resolving **50+ tracked software and system issues**.
 
 Worked on robotics, industrial automation, Boston Dynamics Spot exploration, system design, ASRS planning, and hardware-software integration.
 
-![Circuit-style section divider](assets/divider.svg)
+![Moon-phase section divider](assets/divider.svg)
 
-# Competition & innovation highlights
+# <img src="assets/moon/phase-08.png" height="30" align="absmiddle" alt=""> Competition & innovation highlights
 
 | Result | Competition / Event | Project |
 |---|---|---|
-| 🥇 **1st Place** | Tamkeen 5.0 Hackathon by G42 | Agentic Refund Intelligence |
-| 🥇 **1st Place** | Replit × IEC Buildathon | Starkz AI |
-| 🥈 **2nd Place Nationally** | AIMed AI Builders Summit 2026 | CaseReady AI |
-| 🥈 **2nd Place** | Safe AI Cup 2026 | Generative AI / Education |
-| 🥈 **2nd Place** | Emirates Agriculture Hackathon | SooqRoot |
-| 🥉 **3rd Place** | c0mpiled-2 UAE Hackathon | DeedFlow |
+| **1st Place** | Tamkeen 5.0 Hackathon by G42 | Agentic Refund Intelligence |
+| **1st Place** | Replit × IEC Buildathon | Starkz AI |
+| **2nd Place Nationally** | AIMed AI Builders Summit 2026 | CaseReady AI |
+| **2nd Place** | Safe AI Cup 2026 | Generative AI / Education |
+| **2nd Place** | Emirates Agriculture Hackathon | SooqRoot |
+| **3rd Place** | c0mpiled-2 UAE Hackathon | DeedFlow |
 | **6th / 26 Teams** | Abu Dhabi AI PropTech Challenge | Reach |
 | **Finalist** | Global Build Challenge | Common Ground |
 | **Finalist** | EDGE LIF NextGen Industry Challenge | FalconPatrol AI |
@@ -234,9 +233,9 @@ Worked on robotics, industrial automation, Boston Dynamics Spot exploration, sys
 - **FalconPatrol AI** — Boston Dynamics Spot-based robotic surveillance concept.
 - **Common Ground** — audience-aware AI communication and message adaptation.
 
-![Circuit-style section divider](assets/divider.svg)
+![Moon-phase section divider](assets/divider.svg)
 
-# Industrial engineering work
+# <img src="assets/moon/phase-09.png" height="30" align="absmiddle" alt=""> Industrial engineering work
 
 At EDGE BRIDGE, I have worked on systems involving:
 
@@ -257,18 +256,15 @@ At EDGE BRIDGE, I have worked on systems involving:
 
 I also presented EDGE BRIDGE automation systems at **Make it in the Emirates 2026**, demonstrating ASRS, HMI, and Digital Twin capabilities to visitors and industry stakeholders.
 
-# GitHub activity
+# <img src="assets/moon/phase-10.png" height="30" align="absmiddle" alt=""> GitHub activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=bilal-feroz&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;theme=github_dark" />
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=bilal-feroz&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;theme=default" alt="Bilal Feroz GitHub statistics" height="170" />
-  </picture>
+  <img src="https://komarev.com/ghpvc/?username=bilal-feroz&style=for-the-badge&color=1b2230&label=Profile+views" alt="Bilal Feroz GitHub profile views" />
+</div>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bilal-feroz&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark" />
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bilal-feroz&amp;layout=compact&amp;hide_border=true&amp;theme=default" alt="Most-used languages across Bilal Feroz's public GitHub repositories" height="170" />
-  </picture>
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=bilal-feroz&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=90,000000,0b111c&amp;title_color=eef2f8&amp;text_color=a9b8cf&amp;icon_color=e9dcc0&amp;border_color=1d2533&amp;border_radius=12" alt="Bilal Feroz GitHub statistics" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bilal-feroz&amp;layout=compact&amp;bg_color=90,000000,0b111c&amp;title_color=eef2f8&amp;text_color=a9b8cf&amp;icon_color=e9dcc0&amp;border_color=1d2533&amp;border_radius=12" alt="Most-used languages across Bilal Feroz's public GitHub repositories" height="170" />
 </div>
 
 <div align="center">
@@ -278,18 +274,18 @@ I also presented EDGE BRIDGE automation systems at **Make it in the Emirates 202
   </picture>
 </div>
 
-# Education
+# <img src="assets/moon/phase-11.png" height="30" align="absmiddle" alt=""> Education
 
 ### Al Ain University
 **BSc Computer Science · 2023 – Present**
 
 Areas of study include algorithms, object-oriented programming, databases, web development, artificial intelligence, computer graphics, systems analysis, and software engineering.
 
-# Beyond engineering
+# <img src="assets/moon/phase-12.png" height="30" align="absmiddle" alt=""> Beyond engineering
 
 Outside of tech, I play football and enjoy drawing and painting.
 
-# Let's connect
+# <img src="assets/moon/phase-13.png" height="30" align="absmiddle" alt=""> Let's connect
 
 I am especially interested in systems where **AI, software, robotics, and physical operations have to work together reliably**.
 

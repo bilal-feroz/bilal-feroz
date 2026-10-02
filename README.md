@@ -48,7 +48,9 @@ Dashboards, internal tools, APIs, workflow engines, mobile applications, monitor
 ### Reliability & observability
 Load testing, regression detection, telemetry analysis, traces, logs, performance thresholds, automated validation, and deployment safety.
 
-![Moon-phase section divider](assets/divider.svg)
+<div align="center">
+  <img src="assets/scene-rover.svg" alt="A six-wheeled rover drives across the lunar surface, drills a rock sample with its robotic arm and drives on, while the Earth hangs above the horizon" width="100%" />
+</div>
 
 ## <img src="assets/moon/phase-04.png" height="24" align="absmiddle" alt=""> Engineering principles
 
@@ -205,7 +207,9 @@ Contributed to resolving **50+ tracked software and system issues**.
 
 Worked on robotics, industrial automation, Boston Dynamics Spot exploration, system design, ASRS planning, and hardware-software integration.
 
-![Moon-phase section divider](assets/divider.svg)
+<div align="center">
+  <img src="assets/scene-eclipse.svg" alt="A total solar eclipse over desert dunes: the Moon covers the Sun, a diamond ring flashes, and the corona appears at totality" width="100%" />
+</div>
 
 # <img src="assets/moon/phase-08.png" height="30" align="absmiddle" alt=""> Competition & innovation highlights
 

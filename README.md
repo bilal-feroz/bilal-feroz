@@ -49,7 +49,7 @@ Dashboards, internal tools, APIs, workflow engines, mobile applications, monitor
 Load testing, regression detection, telemetry analysis, traces, logs, performance thresholds, automated validation, and deployment safety.
 
 <div align="center">
-  <img src="assets/scene-rover.svg" alt="A six-wheeled rover drives across the lunar surface, drills a rock sample with its robotic arm and drives on, while the Earth hangs above the horizon" width="100%" />
+  <img src="assets/scene-moonwalk.svg" alt="An astronaut bunny-hops across the lunar surface in low gravity, kicking up dust and leaving bootprints, does a high jump salute near a lunar lander, then hops on while the Earth turns above the horizon" width="100%" />
 </div>
 
 ## <img src="assets/moon/phase-04.png" height="24" align="absmiddle" alt=""> Engineering principles

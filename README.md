@@ -15,38 +15,33 @@
   <img src="https://img.shields.io/badge/Abu_Dhabi-UAE-dfe6f0?style=for-the-badge&labelColor=0b0e14&logo=googlemaps&logoColor=dfe6f0" alt="Based in Abu Dhabi, UAE" />
 </div>
 
-# <img src="assets/moon/phase-01.png" height="30" align="absmiddle" alt=""> Building practical systems across AI, robotics & automation
+# <img src="assets/moon/phase-01.png" height="30" align="absmiddle" alt=""> Building intelligent systems for the real world
 
 I build systems where **AI, software, machines, sensors, and real operational workflows have to work together reliably**.
 
-I am a **Visiting Researcher at EDGE BRIDGE**, **Chief Product Officer at [Kanban Studios](https://kanbanstudios.ae)**, and currently completing my **BSc in Computer Science at Al Ain University**.
+Currently a **Visiting Researcher at EDGE BRIDGE**, **Chief Product Officer at [Kanban Studios](https://kanbanstudios.ae)**, and **Computer Science student at Al Ain University**.
 
-My work spans industrial automation, Digital Twins, HMIs, robotics, computer vision, agentic AI, backend systems, observability, reliability engineering, and rapid product prototyping.
+My work sits mainly across **AI systems, robotics, industrial automation, Digital Twins, and reliability engineering**.
 
 ![Moon-phase section divider](assets/divider.svg)
 
-## <img src="assets/moon/phase-02.png" height="24" align="absmiddle" alt=""> What I am working on
+## <img src="assets/moon/phase-02.png" height="24" align="absmiddle" alt=""> Current focus
 
-- **Agentic AI** systems with evidence, policy logic, and human review.
-- **Industrial automation** connecting software to machines, sensors, and operators.
-- **Digital Twins & HMIs** for machine state, monitoring, control, and diagnostics.
-- **Robotics & computer vision** for real-world perception and interaction.
-- **Reliability engineering** using telemetry, load testing, traces, logs, and automated verification.
-- **Full-stack products** that move from prototype to usable operational software.
+- Building AI systems that reason from **evidence, system state, and policy**.
+- Connecting software with **robots, machines, sensors, and operators**.
+- Developing **Digital Twins and HMIs** for monitoring and control.
+- Testing whether systems remain reliable when conditions actually change.
 
 ## <img src="assets/moon/phase-03.png" height="24" align="absmiddle" alt=""> What I build
 
-### AI & intelligent systems
-Agentic workflows, RAG systems, knowledge graphs, document intelligence, decision-support systems, computer vision, and AI-assisted automation.
+### AI systems
+Agents, decision-support tools, RAG pipelines, knowledge systems, and computer vision.
 
-### Robotics & industrial automation
-ASRS systems, ROS integrations, RFID workflows, Digital Twins, HMI interfaces, edge devices, machine-state representation, and hardware-software integration.
+### Robotics & automation
+ROS integrations, Digital Twins, HMIs, RFID workflows, machine interfaces, and edge systems.
 
-### Full-stack & operational software
-Dashboards, internal tools, APIs, workflow engines, mobile applications, monitoring systems, and production-focused prototypes.
-
-### Reliability & observability
-Load testing, regression detection, telemetry analysis, traces, logs, performance thresholds, automated validation, and deployment safety.
+### Reliable software
+APIs, internal tools, dashboards, monitoring systems, automated testing, and production-focused prototypes.
 
 <div align="center">
   <img src="assets/scene-moonwalk.svg" alt="An astronaut bunny-hops across the lunar surface in low gravity, kicking up dust and leaving bootprints, does a high jump salute near a lunar lander, then hops on while the Earth turns above the horizon" width="100%" />
@@ -55,90 +50,80 @@ Load testing, regression detection, telemetry analysis, traces, logs, performanc
 ## <img src="assets/moon/phase-04.png" height="24" align="absmiddle" alt=""> Engineering principles
 
 - Start with the **real workflow and failure modes**, not the feature list.
-- Make system state, AI reasoning, evidence, and recovery paths visible.
 - Treat AI as part of a larger system, not the entire product.
-- Keep humans in the loop where automated decisions have consequences.
-- Prototype quickly, but validate against actual operational constraints.
+- Keep humans involved when automated decisions have consequences.
 - Measure performance instead of assuming something works.
-- Prefer systems that are explainable, testable, observable, and recoverable.
+- Build systems that are **explainable, observable, testable, and recoverable**.
 
-## <img src="assets/moon/phase-05.png" height="24" align="absmiddle" alt=""> Technology stack
+## <img src="assets/moon/phase-05.png" height="24" align="absmiddle" alt=""> Technology
 
-### AI, backend & data
+### AI & backend
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,sqlite" alt="Python, FastAPI, Node.js, PostgreSQL, and SQLite" height="42" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,sqlite,pytorch" alt="Python, FastAPI, Node.js, PostgreSQL, SQLite, and PyTorch" height="42" />
 
-`RAG` `Qdrant` `Embeddings` `Hybrid Retrieval` `Knowledge Graphs` `Agentic AI` `MCP` `XGBoost` `PyTorch`
+`RAG` `Qdrant` `Knowledge Graphs` `MCP` `Agentic AI`
 
 ### Frontend & mobile
 
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,svelte,flutter,dart" alt="TypeScript, JavaScript, HTML, CSS, React, Next.js, Svelte, Flutter, and Dart" height="42" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,flutter,dart" alt="TypeScript, JavaScript, React, Next.js, Svelte, Flutter, and Dart" height="42" />
 
-### Robotics, vision & automation
+### Robotics & automation
 
 <img src="https://skillicons.dev/icons?i=ros,raspberrypi,opencv" alt="ROS, Raspberry Pi, and OpenCV" height="42" />
 
-`RFID` `Node-RED` `HMI` `Digital Twins` `ASRS` `Computer Vision` `YOLO` `Machine Integration`
+`RFID` `Node-RED` `HMI` `Digital Twins` `ASRS` `Computer Vision`
 
-### Reliability & infrastructure
+### Infrastructure & reliability
 
 <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,golang" alt="Docker, Linux, Git, GitHub Actions, and Go" height="42" />
 
-`OpenTelemetry` `SigNoz` `k6` `autocannon` `Load Testing` `Performance Regression Analysis`
+`OpenTelemetry` `SigNoz` `k6` `Load Testing`
 
 ![Moon-phase section divider](assets/divider.svg)
 
 # <img src="assets/moon/phase-06.png" height="30" align="absmiddle" alt=""> Featured builds
 
+## [TraceForge](https://github.com/bilal-feroz/TraceForge)
+
+An **AI reliability agent** that determines whether a code change is actually safe before production.
+
+It compares old and new versions under identical load, investigates traces and logs through SigNoz, identifies regressions, proposes focused fixes, and verifies them in isolation.
+
+Detected one failure where **94.55% of requests were breaking**, and another where errors remained at **0%** while P95 latency jumped from **103.91 ms to 2,376.92 ms**.
+
+`FastAPI` `Next.js` `OpenTelemetry` `SigNoz` `MCP` `k6`
+
+---
+
 ## [CaseReady AI](https://github.com/bilal-feroz/caseready-ai)
 
 **2nd Place Nationally — AIMed AI Builders Summit 2026**
 
-A surgical operations platform that helps hospitals identify cases at risk, detect readiness blockers, and recover endangered operating-room capacity through human-approved decision support.
+A surgical operations platform that detects cases at risk of cancellation, identifies readiness blockers, and helps staff recover operating-room capacity through human-approved decision support.
 
-`AI` `Healthcare` `Decision Support` `Workflow Automation` `Human-in-the-Loop`
-
----
-
-## [TraceForge](https://github.com/bilal-feroz/TraceForge)
-
-An AI reliability agent that determines whether a code change is actually safe before it reaches production.
-
-It runs identical load tests against old and new versions, investigates traces and logs through SigNoz, detects regressions, proposes focused fixes, and verifies them in an isolated environment.
-
-In one test, TraceForge detected that **94.55% of requests were failing** even though the new version initially appeared faster.
-
-It also detected a silent regression where errors stayed at **0%**, while P95 latency increased from **103.91 ms to 2,376.92 ms**.
-
-`Python` `FastAPI` `Next.js` `OpenTelemetry` `SigNoz` `MCP` `k6`
+`AI` `Healthcare` `Decision Support` `Human-in-the-Loop`
 
 ---
 
 ## ScaleProof
 
-An automated infrastructure-testing system built during a Zerops challenge.
+An automated infrastructure-testing system that finds the **smallest configuration capable of meeting defined performance targets**.
 
-ScaleProof sends real traffic to an application, changes infrastructure configuration through the Zerops API, reruns the same tests, and determines the smallest configuration capable of meeting defined performance targets.
+One experiment improved P95 latency from **496 ms to 265 ms**. Another detected that adding a container made performance roughly **2.5× worse** and automatically rejected the configuration.
 
-One experiment improved P95 latency from **496 ms to 265 ms** by moving from 1 CPU to 2 CPUs.
-
-Another detected that adding a container made performance approximately **2.5× worse**, rejected the configuration, and automatically rolled it back.
-
-`Next.js` `Fastify` `Go` `PostgreSQL` `TypeScript` `autocannon` `Zerops`
+`Next.js` `Go` `PostgreSQL` `TypeScript` `autocannon`
 
 ---
 
 ## Aletheia
 
-An AI research assistant built around an unusual problem:
+**What happens when information an AI previously learned becomes wrong?**
 
-**What happens when information the AI previously learned becomes wrong?**
-
-Aletheia uses knowledge-graph concepts to detect conflicting sources, identify retracted information, update its knowledge, and regenerate answers using trusted evidence.
+Aletheia detects conflicting or retracted information, updates its knowledge graph, and regenerates answers from trusted evidence.
 
 Instead of only learning more information, it can also **unlearn invalidated knowledge**.
 
-`AI Memory` `Knowledge Graphs` `Cognee` `Evidence Tracking` `AI Agents`
+`Knowledge Graphs` `AI Memory` `Evidence Tracking` `AI Agents`
 
 ---
 
@@ -146,35 +131,15 @@ Instead of only learning more information, it can also **unlearn invalidated kno
 
 A webcam-controlled spatial canvas with gesture input, editable vector strokes, and depth-aware interaction for hands-free drawing.
 
-`Python` `MediaPipe` `OpenCV` `NumPy`
+`Python` `MediaPipe` `OpenCV`
 
 ---
 
 ## [Digital Twin Manual](https://github.com/bilal-feroz/digital-twin-manual)
 
-A touch-focused industrial HMI for controlling a simulated robotic arm and conveyor system with clear position, movement, direction, and state feedback.
+A touch-focused industrial HMI for controlling a simulated robotic arm and conveyor system with live position, movement, direction, and machine-state feedback.
 
-`Svelte 5` `SvelteKit` `JavaScript` `Vite` `HMI` `Digital Twin`
-
----
-
-## [Excelerate Learning Platform](https://github.com/bilal-feroz/Excelerate-Internship)
-
-A Flutter-based learning platform developed during my Excelerate internship.
-
-I led project management and technical integration across the team, managed GitHub workflow across **17 merged pull requests**, built the JSON data layer, coordinated feature integration, and supported final QA and release preparation.
-
-`Flutter` `Dart` `Material 3` `JSON` `GitHub`
-
----
-
-## ReLoop Vision
-
-A browser-based industrial waste-sorting simulation developed during a **Robotics, AI & Industry 4.0 Innovation Lab Workshop**.
-
-The system combines multiple sensor inputs, confidence scoring, edge decision logic, and safety overrides to route recyclable materials while isolating hazardous or uncertain items.
-
-`Industrial AI` `Sensors` `Edge Logic` `Automation` `Safety Systems`
+`Svelte` `HMI` `Digital Twin`
 
 ![Moon-phase section divider](assets/divider.svg)
 
@@ -183,35 +148,35 @@ The system combines multiple sensor inputs, confidence scoring, edge decision lo
 ### EDGE BRIDGE — Visiting Researcher
 **Jan 2026 – Present**
 
-Applied research and prototype development across industrial automation, ASRS systems, Digital Twins, HMIs, robotics, computer vision, machine interfaces, and Industry 4.0/5.0 technologies.
+Applied R&D across **industrial automation, Digital Twins, HMIs, robotics, computer vision, and intelligent machine systems**.
 
 ### Kanban Studios — Chief Product Officer
 **Jun 2026 – Present**
 
-Product direction and technical planning for AI-powered software, automation systems, internal tools, AI agents, document intelligence, dashboards, and workflow platforms.
+Product direction and technical planning for AI products, automation systems, internal tools, and intelligent workflows.
 
 ### Excelerate — Project Manager / Flutter Development Intern
 **Jul 2026**
 
-Led project management and technical integration for a multi-member Flutter development team, including architecture, GitHub workflows, feature integration, QA, documentation, and release preparation.
+Led project management and technical integration for a multi-member Flutter development team across architecture, GitHub workflow, integration, QA, and release preparation.
 
 ### EDGE BRIDGE — Intelligent Systems & Automation Trainee
 **Sep 2025 – Dec 2025**
 
-Worked across ASRS development, HMI systems, Digital Twin prototyping, RFID/backend integration, ROS Bridge support, hardware testing, commissioning, computer vision, security, and system troubleshooting.
+Worked on ASRS, RFID/backend integration, ROS systems, Digital Twins, hardware commissioning, computer vision, and system reliability.
 
 Contributed to resolving **50+ tracked software and system issues**.
 
 ### EDGE BRIDGE — Software Engineer Intern
 **Aug 2025 – Sep 2025**
 
-Worked on robotics, industrial automation, Boston Dynamics Spot exploration, system design, ASRS planning, and hardware-software integration.
+Worked on robotics, industrial automation, Boston Dynamics Spot exploration, ASRS planning, and hardware-software integration.
 
 <div align="center">
   <img src="assets/scene-eclipse.svg" alt="A total solar eclipse over desert dunes: the Moon covers the Sun, a diamond ring flashes, and the corona appears at totality" width="100%" />
 </div>
 
-# <img src="assets/moon/phase-08.png" height="30" align="absmiddle" alt=""> Competition & innovation highlights
+# <img src="assets/moon/phase-08.png" height="30" align="absmiddle" alt=""> Competition highlights
 
 | Result | Competition / Event | Project |
 |---|---|---|
@@ -226,37 +191,15 @@ Worked on robotics, industrial automation, Boston Dynamics Spot exploration, sys
 | **Finalist** | EDGE LIF NextGen Industry Challenge | FalconPatrol AI |
 | **Top 170 / 4,710** | Create Apps Championship | XPBridge |
 
-## Selected competition projects
-
-- **Agentic Refund Intelligence** — auditable AI workflow for refund and payment-dispute investigation.
-- **Starkz AI** — AI safety assistant for outdoor workers operating in extreme UAE heat.
-- **CaseReady AI** — operating-room readiness and surgical capacity decision support.
-- **SooqRoot** — agricultural coordination platform connecting smaller farms into a unified supply network.
-- **Reach** — AI-powered urban siting and accessibility analysis.
-- **DeedFlow** — compliance-first workflow engine for fractional and tokenized UAE real estate.
-- **FalconPatrol AI** — Boston Dynamics Spot-based robotic surveillance concept.
-- **Common Ground** — audience-aware AI communication and message adaptation.
+A few of these projects explored **AI safety, healthcare operations, agriculture, real estate, robotics, and urban intelligence**.
 
 ![Moon-phase section divider](assets/divider.svg)
 
-# <img src="assets/moon/phase-09.png" height="30" align="absmiddle" alt=""> Industrial engineering work
+# <img src="assets/moon/phase-09.png" height="30" align="absmiddle" alt=""> Industrial systems
 
-At EDGE BRIDGE, I have worked on systems involving:
+At EDGE BRIDGE, I have worked directly with:
 
-- ASRS workflows
-- HMI development
-- Digital Twin visualisation
-- RFID/backend integration
-- ROS Bridge integration
-- Sensor and machine-state workflows
-- Conveyor and gantry testing
-- Hardware testing and commissioning
-- Authentication and access-control workflows
-- Mutual TLS integration
-- Computer vision
-- XGBoost-based forecasting
-- Kiosk reliability and AutoStart workflows
-- Deployment and handover documentation
+`ASRS` `HMI` `Digital Twins` `RFID` `ROS` `Machine Integration` `Computer Vision` `mTLS` `Hardware Commissioning`
 
 I also presented EDGE BRIDGE automation systems at **Make it in the Emirates 2026**, demonstrating ASRS, HMI, and Digital Twin capabilities to visitors and industry stakeholders.
 
@@ -283,15 +226,13 @@ I also presented EDGE BRIDGE automation systems at **Make it in the Emirates 202
 ### Al Ain University
 **BSc Computer Science · 2023 – Present**
 
-Areas of study include algorithms, object-oriented programming, databases, web development, artificial intelligence, computer graphics, systems analysis, and software engineering.
-
 # <img src="assets/moon/phase-12.png" height="30" align="absmiddle" alt=""> Beyond engineering
 
 Outside of tech, I play football and enjoy drawing and painting.
 
 # <img src="assets/moon/phase-13.png" height="30" align="absmiddle" alt=""> Let's connect
 
-I am especially interested in systems where **AI, software, robotics, and physical operations have to work together reliably**.
+I am interested in building **intelligent systems that have to survive contact with the real world**.
 
 [LinkedIn](https://www.linkedin.com/in/bilal-ferozz/) ·
 [Email](mailto:bilalfk.viii@gmail.com) ·
